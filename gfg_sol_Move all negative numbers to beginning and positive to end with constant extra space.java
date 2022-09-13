@@ -65,6 +65,6 @@ public static void main(String[] args)
 // This code is contributed by imnehapathak0504@gmail.com
 // Time complexity: O(N) 
 // Auxiliary Space: O(1)
-// code is 
-// This is applicable for when order of elements matters
+// Move all negative numbers to beginning and positive to end with constant extra space using ArrayList Data Structure
+// Arranging the positive and negative numbers where the order of elements is maintained.
 // https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/
